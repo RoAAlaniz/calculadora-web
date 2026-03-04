@@ -30,8 +30,3 @@ Permite realizar operaciones matemáticas básicas a través de una interfaz int
 ## 🚀 Objetivo del proyecto
 
 Practicar la lógica de programación en JavaScript y reforzar conceptos de estructura (HTML) y diseño (CSS), integrando todo en una aplicación web funcional.
-
----
-
-## 🌐 Link
-
