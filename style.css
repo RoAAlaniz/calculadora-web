@@ -73,7 +73,7 @@ body{
     height: 65px;
 }
 
-.clac-button:last-child{
+.calc-button:last-child{
     backdrop-filter: blur(5.5px);
     -webkit-backdrop-filter: blur(5.5px);
     background: rgba(255, 255, 255, 0.75);
@@ -81,7 +81,7 @@ body{
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
     color: #fff;
-    background: #86245a; /*ver*/
+    background: #110337; 
 }
 
 .calc-button:last-child:hover{
